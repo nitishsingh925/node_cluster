@@ -1,0 +1,13 @@
+{
+  "name": "node_cluster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nitish Singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {}
+}
